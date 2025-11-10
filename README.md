@@ -87,7 +87,7 @@ Power BI – Data visualization & dashboard creation
 
 ## 📷 Dashboard Screenshots
 ### Business Overview
-![Business Overview](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/651b4991d70fa85d0f2cb54b01fff7964a32119a/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002851.png)
+![Business Overview](https://github.com/sanikasapkal23/Power-BI-Projects-ITV-Hotels-Dashboard/blob/c1451a6a85c9907f27849401169f42b939e097cd/Screenshot%202025-11-10%20154326.png)
 
 ### Hotel Performance
 ![Hotel Performance](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/88fad744ac7e42ab4a297d684e671d685d6f076e/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002906.png)
