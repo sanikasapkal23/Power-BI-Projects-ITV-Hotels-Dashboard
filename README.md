@@ -93,7 +93,7 @@ Power BI – Data visualization & dashboard creation
 ![Hotel Performance](https://github.com/sanikasapkal23/Power-BI-Projects-ITV-Hotels-Dashboard/blob/40832cd8a217d2c0758f19a2a7c426559f9f5357/Screenshot%202025-11-10%20154409.png)
 
 ### Room & Customer Insights
-![[Customer Insights](images/customer_insights.png](https://github.com/yuvrajpawar4766/Data-Analysis-Project/blob/651b4991d70fa85d0f2cb54b01fff7964a32119a/Power%20BI-Projects/ITV%20Hotels%20Dashboard/Screenshot%202025-09-11%20002921.png)
+![[Customer Insights](images/customer_insights.png](https://github.com/sanikasapkal23/Power-BI-Projects-ITV-Hotels-Dashboard/blob/e02fe152f13a0cb3ee5dbd4e3a3d6ce80da8cc4c/Screenshot%202025-11-10%20154432.png)
 
 ---
 
